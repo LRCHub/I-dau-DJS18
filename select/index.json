@@ -2,8 +2,16 @@
   "version": 1,
   "base_track": "白命",
   "base_artist": "Es",
-  "createdAt": "2026-01-12T11:39:37.353730Z",
+  "createdAt": "2026-03-15T05:58:40.644904Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "白命",
+      "artist": "Es",
+      "has_synced": true,
+      "path": "select/01_白命_Es.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
